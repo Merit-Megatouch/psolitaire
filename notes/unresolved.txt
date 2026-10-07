@@ -7,7 +7,6 @@ ActiveDelay(int) | psolitaire.so
 IsReplayAllowed(xml_gameinfo::GameIds) | psolitaire.so
 t_i_l() | psolitaire.so
 CheckGrab(int) | psolitaire.so
-HighScoresManager::LowestScore(xml_gameinfo::GameIds, int) | psolitaire.so
 USBIO::FoundUSB() | psolitaire.so
 NBitmap::WrapAllegroBitmap(BITMAP*) | psolitaire.so
 NBitmap::~NBitmap() | psolitaire.so
